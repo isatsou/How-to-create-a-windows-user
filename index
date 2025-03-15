@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create New Windows User</title>
+</head>
+<body>
+    <h1>Create a New Windows User</h1>
+    <p>Click the button below to create a new user in Windows.</p>
+    <a href="ms-cxh://setaddnewuser">
+        <button>Create New User</button>
+    </a>
+</body>
+</html>
